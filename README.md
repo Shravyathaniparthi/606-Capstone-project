@@ -1,1 +1,1 @@
-# 606-capstone-project
+# 606 Sentiment Analysis on amazon reviews capstone-project
